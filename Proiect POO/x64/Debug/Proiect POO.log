@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(909,25): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(915,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(1966,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(1985,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2009,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2036,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2047,28): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2089,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2108,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2132,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2156,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2180,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2201,36): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2217,28): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(2274,28): warning C4101: 'x': unreferenced local variable
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(1542,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(1541): message : while compiling class template member function 'int Gestiune<Material>::get_nr_obiecte(void)'
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(1955): message : see reference to function template instantiation 'int Gestiune<Material>::get_nr_obiecte(void)' being compiled
+C:\Users\Sorina\Desktop\vlad ex\Proiect POO\Proiect POO\Source.cpp(1583): message : see reference to class template instantiation 'Gestiune<Material>' being compiled
+  Proiect POO.vcxproj -> C:\Users\Sorina\Desktop\vlad ex\Proiect POO\x64\Debug\Proiect POO.exe

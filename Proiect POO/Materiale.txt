@@ -1,0 +1,41 @@
+Nume Material: Lapte
+Unitate De Masura: L
+Data Expirare: 18.01.2023
+Pret Unitar: 3.5
+Cantitate: 100
+
+Nume Material: Faina
+Unitate De Masura: Kg
+Data Expirare: 23.03.2023
+Pret Unitar: 2.5
+Cantitate: 50
+
+Nume Material: Oua
+Unitate De Masura: Buc
+Data Expirare: 12.02.2023
+Pret Unitar: 0.5
+Cantitate: 100
+
+Nume Material: Zahar
+Unitate De Masura: Kg
+Data Expirare: 12.02.2023
+Pret Unitar: 2.5
+Cantitate: 500
+
+Nume Material: Unt
+Unitate De Masura: Kg
+Data Expirare: 12.02.2023
+Pret Unitar: 3.5
+Cantitate: 100
+
+Nume Material: Ciuperci
+Unitate De Masura: Kg
+Data Expirare: 12.02.2023
+Pret Unitar: 3.5
+Cantitate: 100
+
+Nume Material: Mere
+Unitate De Masura: Kg
+Data Expirare: 12.02.2023
+Pret Unitar: 3.5
+Cantitate: 100

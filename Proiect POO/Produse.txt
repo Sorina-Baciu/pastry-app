@@ -1,0 +1,29 @@
+Denumire: Covrig
+Data Expirare: 15.01.2023
+Este de post: Da
+Perisabil: Da
+Categorie: Alta Categorie
+Tip Produs: Proaspat
+Gramaj: 100
+Cantitate: 80
+Materiale: Lapte-100, Ou-1, Faina-100
+
+Denumire: Pateu cu ciuperci
+Data Expirare: 14.01.2023
+Este de post: Nu
+Perisabil: Da
+Categorie: Foietaje
+Tip Produs: Refrigerat
+Gramaj: 120
+Cantitate: 50
+Materiale: Faina-100, Unt-50, Ciuperci-20
+
+Denumire: Rulada cu mere
+Data Expirare: 14.01.2023
+Este de post: Da
+Perisabil: Da
+Categorie: Rulade
+Tip Produs: Proaspat
+Gramaj: 80
+Cantitate: 100
+Materiale: Mere-100, Faina-200, Zahar-50
